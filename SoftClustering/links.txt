@@ -1,0 +1,4 @@
+
+http://yaikhom.com/res/fcm/fcm.pdf
+https://home.deib.polimi.it/matteucc/Clustering/tutorial_html/cmeans.html
+https://en.wikipedia.org/wiki/Fuzzy_clustering
